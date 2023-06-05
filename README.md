@@ -1,6 +1,7 @@
 # iotprojector
 
-A new Flutter project.
+This project is based on IOT semester project. 
+
 
 ## Getting Started
 
